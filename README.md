@@ -17,4 +17,4 @@ If you look at the nanorobot, you will notice a mesh of wires. These are actuall
 This robot was first created in SolidWorks and then saved as an STL file. It was then uploaded to Ultimaker Cura, where the dimentions were changed so that it could be printed in 20 minutes or less. Lastly the G-code file was uploaded to the Ultimaker 3 Printer where the model was printed using ABS plastic. 
 
 # Conclusion
-Thank you for reading about this project. While the Solidworks CAD design was lost, I have uploaded the STL file and an image of the Nanorobot that you can view.
+Thank you for reading about this project. While the Solidworks CAD design was lost, I have uploaded the STL file and an image of the Nanorobot that you can view. The STL file is in the CAD_files branch and the image is in the main branch 
