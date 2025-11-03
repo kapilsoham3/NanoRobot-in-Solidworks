@@ -11,10 +11,10 @@ This chamber is used for holding a drug payload. For cancer research, this will 
 The nanorobots have little legs which grip a target cell for localized treatment. The robot must be stabalized against the blood flow before deploying a treatment. 
 
 # Sensors
-If you look at the nanorobot, you will notice a mesh of wires. These are actually nano-wires acting as molecular sensors. These sensors are used to detect chemical signals and can be used to detect tumor's pH levels or specific protiens. This is extremely helpful for detecting early signs of illness. 
+If you look at the nanorobot, you will notice a mesh of wires. These are actually nano-wires acting as molecular sensors. These sensors are used to detect chemical signals and can be used to detect tumor's pH levels or specific protiens. This is extremely helpful for detecting early signs of illness.  
 
 # Making the robot
 This robot was first created in SolidWorks and then saved as an STL file. It was then uploaded to Ultimaker Cura, where the dimentions were changed so that it could be printed in 20 minutes or less. Lastly the G-code file was uploaded to the Ultimaker 3 Printer where the model was printed using ABS plastic. 
 
 # Conclusion
-Thank you for reading about this project. While the Solidworks CAD design was lost, I have uploaded the STL file and an image of the Nanorobot that you can view. The STL file is in the CAD_files branch and the image is in the main branch 
+Thank you for reading about this project. While the Solidworks CAD design was lost, I have uploaded the STL file and an image of the Nanorobot that you can view. The STL file is in the CAD_files branch and the images are in the main branch. The images include a picture of the final object and a screenshot of the CAD design. 
